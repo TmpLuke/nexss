@@ -2,21 +2,21 @@
 
 Below is a concise, professional overview of every module bundled with Rust Ultimate. This edition combines every advanced exploit, visual enhancement, and quality of life tweaks.
 
-## Aimbot
-
+{% tabs %}
+{% tab title="Aimbot" %}
 **Setting**|**Values / Notes**
 ---|---
 Enable Aimbot|Master toggle
-Silent Mode|Conceals view‑kick while correcting bullets
+Silent Mode|Conceals view-kick while correcting bullets
 Use Smoothing|Humanize aim path (On / Off)
 Aim Bone|Head • Chest • Stomach • Pelvis
 Keep Target|Maintain lock until target dies or leaves FOV
 Smooth Slider|1 – 100 value
 Draw FOV|Show / hide circle
-Target Line|Line from cross‑hair to target
+Target Line|Line from cross-hair to target
+{% endtab %}
 
-## Player Visuals (ESP)
-
+{% tab title="Player Visuals (ESP)" %}
 **Setting**|**Values / Notes**
 ---|---
 Player ESP|Master toggle
@@ -26,35 +26,41 @@ Skeleton|Thickness slider (1 – 5 px)
 Player Chams|18 preset materials
 Hotbar Options|Hotbar • Clothing etc.
 Team / Wounded / Sleeping / Dead|Custom color filters
-Safezone Color|Highlight safe‑zone players
-OOF Indicators|Off‑screen arrows
+Safezone Color|Highlight safe-zone players
+OOF Indicators|Off-screen arrows
 Player Distance Slider|25 – 1500 m
 {% endtab %}
 
-{% tab title="World ESP" %}
-**Category**|**Toggles & Options**
+{% tab title="World ESP & Entities" %}
+**Category**|**Entities & Options**
 ---|---
-Battlemode|One‑click disable of visuals for streaming
+Battlemode|One-click disable of visuals for streaming
 Save Position / House|Store up to 5 custom waypoints (with clear)
 Vehicles|Patrol Heli • Bradley • Drones • Cargo Ship • Mini / Scrap Copter • RHIB • Rowboat • Submarine • Attack Heli
 Deployables|Recycler • TC • CCTV • Sleeping Bag • RF Rx/Tx • Sensors • Large Battery • Tier 3
 Traps|tin can Alarm • Auto Turret • Gun Trap • Flame Trap • Snap Trap
 Entity Distance Sliders|Individual per category
+{% endtab %}
 
-**Ore ESP**|**Toggles & Options**
+{% tab title="Ore ESP" %}
+**Setting**|**Values / Notes**
 ---|---
 Stone / Metal / Sulfur Ore|Individual toggles
 Wood Pile|Toggle
 Node Distance|25 – 1000 m slider
+{% endtab %}
 
-**Collectibles & Animals**|**Toggles & Options**
+{% tab title="Collectibles & Animals" %}
+**Setting**|**Values / Notes**
 ---|---
 Collectibles|Stone • Metal • Sulfur • Wood • Diesel
 Berries|Dropdown (All / Blue / Yellow / Red etc.)
 Collectible Distance|25 – 1000 m slider
 Animals|Bear • Boar • Stag • Wolf • Horse • Shark
+{% endtab %}
 
-**Lootables ESP**|**Toggles & Options**
+{% tab title="Lootables ESP" %}
+**Category**|**Toggles & Options**
 ---|---
 Containers|Airdrop • Locked Crate • Normal / Military / Elite / Tool Crates • Water Crates (Adv./Basic) • Medical • Food
 Corpses|Player (distance slider) • Scientist/Animal
@@ -72,10 +78,10 @@ Fast Hover Loot|Rapid container transfer
 **Setting**|**Values / Notes**
 ---|---
 Flyhack|On / Off
-No Water Gravity|Swim‑walk on water
+No Water Gravity|Swim-walk on water
 Spiderman|Vertical climb
 Infinite Jump|On / Off
-Always Sprint|Auto‑sprint
+Always Sprint|Auto-sprint
 {% endtab %}
 
 {% tab title="Removals" %}
@@ -98,5 +104,4 @@ Circle Size|Player & NPC dot radii
 {% endtabs %}
 
 ### Need Assistance?
-
 Our support team is online 24 / 7 to help with installation, troubleshooting, or feature optimisation. Feel free to reach out anytime.
