@@ -24,7 +24,7 @@
     width: 100%;
     border-radius: 4px;
     margin-bottom: 1rem;
-    background-color: #2d3748; /* Placeholder background */
+    background-color: #2d3748;
   }
   .product-card h3 {
     color: #ffffff;
@@ -59,7 +59,7 @@
     <a href="features/fortnite-ultimate.md">Fortnite Ultimate &raquo;</a>
   </div>
   <div class="product-card">
-    <img src="https://nexuscheats.gitbook.io/nexus-product-features/~gitbook/image?url=https%3A%2F%2F3177273654-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FoOZRBTCmyuVoU21stdc2%252Fuploads%252F7IJam5Ev94lf4xT2Yw7j%252Fffhgfghfghfgh.png%3Falt%3Dmedia%26token%3Dbe450ce1-04f4-4176-9f73-b01febe4fc14&width=245&dpr=1&quality=100&sign=712a8890&sv=2" alt="Fortnite Private">
+    <img src="https://nexuscheats.gitbook.io/nexus-product-features/~gitbook/image?url=https%3A%2F%2F3177273654-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FoOZRBTCmyuVoU21stdc2%252Fuploads%252FYJBHeQhscCgNnPcr8Zr7%252F3453435345345.png%3Falt%3Dmedia%26token%3D7ecd6213-97c9-4f7c-acf4-fbf0a9d6741a&width=245&dpr=1&quality=100&sign=ddb3dafb&sv=2" alt="Fortnite Private">
     <h3>Fortnite Private</h3>
     <p>Features - Fortnite Private</p>
     <a href="#">Purchase Here &raquo;</a>
@@ -93,24 +93,14 @@
     <a href="#">Purchase Here &raquo;</a>
     <a href="features/permanent-spoofer.md">Permanent Spoofer &raquo;</a>
   </div>
+  <div class="product-card">
+    <img src="https://nexuscheats.gitbook.io/nexus-product-features/~gitbook/image?url=https%3A%2F%2F3177273654-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FoOZRBTCmyuVoU21stdc2%252Fuploads%252FZyBdrvJCdhZdpbJsK3WO%252Fffhgfghfghfgh.png%3Falt%3Dmedia%26token%3D834be79b-0660-44e6-917c-121dee0eb7d2&width=245&dpr=4&quality=100&sign=4052ffb7&sv=2" alt="Bo6 Full">
+    <h3>Bo6 Full</h3>
+    <p>Features - Bo6 Full</p>
+    <a href="#">Purchase Here &raquo;</a>
+    <a href="#">Bo6 Full &raquo;</a>
+  </div>
 </div>
-
-At Nexus, we provide powerful software utilities and specialized cheat products designed to help you aim better, play better, and explore new possibilities. This Feature hub offers a clear, interactive overview of everything offered, and its features.
-
-This is a one stop dashboard where you can preview every cheat we sell, side‑by‑side. Scan the table below for at‑a‑glance comparisons of aimbot modes, ESP layers, security hardening, and platform support. When you’re ready for specifics, click a product name to open its dedicated page with update logs, purchase links and more.
-
-## Product Feature Guides
-
-<style>
-    .btn-grid {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 1rem;
-        margin: 2rem 0;
-        list-style: none;
-        padding: 0;
-    }
-    .btn {
         display: block;
         padding: 1rem 1.5rem;
         background-color: #2d3748;
