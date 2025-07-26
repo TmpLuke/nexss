@@ -1,6 +1,6 @@
 # Summary
 
-* [👋Welcome to Nexus](README.md)
+* [Homepage](README.md)
 * [Fortnite Ultimate](features/fortnite-ultimate.md)
 * [Fortnite Private](features/fortnite-private.md)
 * [Rainbow Six Siege](features/rainbow-six-siege.md)
