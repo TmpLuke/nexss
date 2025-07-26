@@ -94,29 +94,13 @@
     <a href="features/permanent-spoofer.md">Permanent Spoofer &raquo;</a>
   </div>
   <div class="product-card">
-    <img src="https://nexuscheats.gitbook.io/nexus-product-features/~gitbook/image?url=https%3A%2F%2F3177273654-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FoOZRBTCmyuVoU21stdc2%252Fuploads%252FZyBdrvJCdhZdpbJsK3WO%252Fffhgfghfghfgh.png%3Falt%3Dmedia%26token%3D834be79b-0660-44e6-917c-121dee0eb7d2&width=245&dpr=4&quality=100&sign=4052ffb7&sv=2" alt="Bo6 Full">
+    <img src="https://nexuscheats.gitbook.io/nexus-product-features/~gitbook/image?url=https%3A%2F%2F3177273654-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FoOZRBTCmyuVoU21stdc2%252Fuploads%252FZyBdrvJCdhZdpbJsK3WO%252Fffhgfghfghfgh.png%3Falt%3Dmedia%26token%3D834be79b-0660-44e6-917c-121dee0eb7d2&width=245&dpr=1&quality=100&sign=4052ffb7&sv=2" alt="Bo6 Full">
     <h3>Bo6 Full</h3>
     <p>Features - Bo6 Full</p>
     <a href="#">Purchase Here &raquo;</a>
     <a href="#">Bo6 Full &raquo;</a>
   </div>
 </div>
-        display: block;
-        padding: 1rem 1.5rem;
-        background-color: #2d3748;
-        color: #ffffff;
-        text-align: center;
-        border-radius: 8px;
-        text-decoration: none;
-        font-weight: bold;
-        transition: background-color 0.2s ease-in-out;
-    }
-    .btn:hover {
-        background-color: #4a5568;
-        color: #ffffff;
-        text-decoration: none;
-    }
-</style>
 
 <div class="btn-grid">
     <a href="features/fortnite-ultimate.md" class="btn">Fortnite Ultimate</a>
