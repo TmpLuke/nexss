@@ -57,9 +57,9 @@ Radar Enemy Color|Color picker
 Radar Team Color|Color picker
 Radar Auto‑Scale|Dynamic zoom based on distance (On / Off)
 Radar Orientation Lock|North‑up or rotate‑with‑view
+{% endtab %}
 
-## Item ESP
-
+{% tab title="Item ESP" %}
 **Setting**|**Values / Notes**
 ---|---
 Item ESP Enabled|Master toggle
@@ -69,9 +69,9 @@ Item Color|Global color picker
 Show Rarity Icon|On / Off
 Show Distance|Show metres (On / Off)
 Max Distance|25 – 1000 m slider
+{% endtab %}
 
-## Miscellaneous
-
+{% tab title="Miscellaneous" %}
 **Setting**|**Values / Notes**
 ---|---
 Battle‑Mode Toggle|Quickly enable/disable all visuals & aimbot
@@ -81,6 +81,8 @@ ESP Font|Tahoma • Pixel • Fortnite • Matcha
 Font Size|10 – 24 pt slider
 ESP Outline|Drop Shadow • Full Outline • Half Outline
 Controller Support|Full Xbox / PS controller mapping
+{% endtab %}
+{% endtabs %}
 
 ### Need Assistance?
 

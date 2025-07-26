@@ -1,32 +1,46 @@
 # Rainbow Six Siege
 
-Below is a concise and professional overview of each feature bundled with Rainbow Six Siege Private. Review the list to understand each cheat capability, the integrated Battle Eye-safe protections, and the enhanced features.
+Below is a concise, professional summary of every module bundled with Rainbow Six Siege. Use this page to understand what the cheat delivers before installing or purchasing.
 
-## Aimbot
-
+{% tabs %}
+{% tab title="Aimbot" %}
 **Setting**|**Values / Notes**
 ---|---
-Active Aimbot|Master toggle for the entire aim module
-Aimbot Keys|Two independent hot-keys for activation (Primary / Secondary)
-FOV Size|Adjustable arc, 5 – 360°
-Hitboxes|Head • Chest • Pelvis (selectable)
-Sensitivity|1 – 100 slider for smoothing / humanization
-Mark Target|Highlight and maintain lock indicator on current target
-Custom Crosshair|On / Off — overlay crosshair for hip-fire accuracy
+Master Toggle|Enable / Disable entire module
+Aim Type|Silent • Normal
+Activation Key|User‑defined key or mouse button
+Target Bone|Head · Neck · Body
+FOV Circle|Show / Hide
+FOV Colour|Custom RGBA picker
+FOV Radius|10‑1000 px slider
+Smoothness|1‑100 slider for natural motion
+Visibility Check|Skip targets behind cover
+Team Check|Hide teammates or colour‑code teams
+{% endtab %}
 
-## Visuals (ESP)
-
+{% tab title="Visuals" %}
 **Setting**|**Values / Notes**
 ---|---
-Player ESP|Master toggle for all visual overlays
-ESP Box|Corner Box • Full Box (selectable)
-ESP Line|Off • Top • Centre • Bottom — draw line to players
-Player Distance|Display meters to target (On / Off)
-Skeleton|Bone overlay; dual colors for visible / hidden
-Name Tag|Show player nicknames (On / Off)
-Head Marker|Highlight head hitbox separately (On / Off)
-Health Display|Bar • Text — configurable color
-Team Check|Hide teammates or color‑code allies
+Render Range|25‑1000 m slider
+Glow / Chams|On / Off • Custom RGBA picker
+Skeleton|On / Off · Dual colors (hidden / visible)
+Head Marker|On / Off · Dual colors
+2D Box|On / Off · Dual colors
+Distance Tag|Display metres; color picker
+Snap Lines|Display metres; color picker
+Name Tag|Show usernames (On / Off)
+{% endtab %}
+
+{% tab title="Misc" %}
+**Setting**|**Values / Notes**
+---|---
+No Recoil|On / Off • 1‑100% slider
+No Spread|On / Off • 1‑100% slider
+No Sway|On / Off
+Instant ADS|On / Off
+Long-range Melee|On / Off
+{% endtab %}
+{% endtabs %}
 Max Distance|25 – 1500 m render limit slider
 
 ### Need Assistance?

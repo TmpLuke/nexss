@@ -20,9 +20,9 @@ Acer|✅ Verified*
 Dell|✅ Verified*
 
 *For certain pre-built systems (Acer & Dell), please open a support ticket first so we can confirm chipset compatibility.
+{% endtab %}
 
-## Core Functions & Utilities
-
+{% tab title="Core Functions & Utilities" %}
 **Feature**|**Description**
 ---|---
 Permanent Spoof (Perm‑Woof)|Permanent Spoof (Perm‑Woof)
@@ -33,6 +33,8 @@ Modern UI|Clean, responsive interface with progress tracking and safety checks
 Advanced & Stable Engine|Vendor‑compliant flashing with checksum validation to prevent bricks
 Seed System|Generate deterministic ID sets for team scrims
 15‑Minute Guided Process|Step‑by‑step wizard—no CLI knowledge required
+{% endtab %}
+{% endtabs %}
 
 ### Need Assistance?
 

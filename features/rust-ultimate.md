@@ -29,10 +29,10 @@ Team / Wounded / Sleeping / Dead|Custom color filters
 Safezone Color|Highlight safe‑zone players
 OOF Indicators|Off‑screen arrows
 Player Distance Slider|25 – 1500 m
+{% endtab %}
 
-## World ESP & Entities
-
-**Category**|**Entities & Options**
+{% tab title="World ESP" %}
+**Category**|**Toggles & Options**
 ---|---
 Battlemode|One‑click disable of visuals for streaming
 Save Position / House|Store up to 5 custom waypoints (with clear)
@@ -41,40 +41,34 @@ Deployables|Recycler • TC • CCTV • Sleeping Bag • RF Rx/Tx • Sensors �
 Traps|tin can Alarm • Auto Turret • Gun Trap • Flame Trap • Snap Trap
 Entity Distance Sliders|Individual per category
 
-## Ore ESP
-
-**Setting**|**Values / Notes**
+**Ore ESP**|**Toggles & Options**
 ---|---
 Stone / Metal / Sulfur Ore|Individual toggles
 Wood Pile|Toggle
 Node Distance|25 – 1000 m slider
 
-## Collectibles & Animals
-
-**Setting**|**Values / Notes**
+**Collectibles & Animals**|**Toggles & Options**
 ---|---
 Collectibles|Stone • Metal • Sulfur • Wood • Diesel
 Berries|Dropdown (All / Blue / Yellow / Red etc.)
 Collectible Distance|25 – 1000 m slider
 Animals|Bear • Boar • Stag • Wolf • Horse • Shark
 
-## Lootables ESP
-
-**Category**|**Toggles & Options**
+**Lootables ESP**|**Toggles & Options**
 ---|---
 Containers|Airdrop • Locked Crate • Normal / Military / Elite / Tool Crates • Water Crates (Adv./Basic) • Medical • Food
 Corpses|Player (distance slider) • Scientist/Animal
 Backpacks|Distance slider
 Dropped Items|Distance slider
+{% endtab %}
 
-## Utility
-
+{% tab title="Utility" %}
 **Setting**|**Values / Notes**
 ---|---
 Fast Hover Loot|Rapid container transfer
+{% endtab %}
 
-## Movement
-
+{% tab title="Movement" %}
 **Setting**|**Values / Notes**
 ---|---
 Flyhack|On / Off
@@ -82,16 +76,16 @@ No Water Gravity|Swim‑walk on water
 Spiderman|Vertical climb
 Infinite Jump|On / Off
 Always Sprint|Auto‑sprint
+{% endtab %}
 
-## Removals
-
+{% tab title="Removals" %}
 **Setting**|**Values / Notes**
 ---|---
 No Fall Damage|On / Off
 No Draw Distance|Remove weapon sway & FOV recoil
+{% endtab %}
 
-## Radar
-
+{% tab title="Radar" %}
 **Setting**|**Values / Notes**
 ---|---
 Enable Radar|Master toggle
@@ -100,6 +94,8 @@ Radar Size|100 – 400 px
 Player / NPC Length|Bar length sliders
 Player / NPC Thickness|1 – 5 px
 Circle Size|Player & NPC dot radii
+{% endtab %}
+{% endtabs %}
 
 ### Need Assistance?
 
